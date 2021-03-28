@@ -13,6 +13,8 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/** ADDED A COMMENT */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
